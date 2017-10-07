@@ -15,4 +15,4 @@
 
 Далее в текущей папке открыть окно командной строки PowerShell и выполнить следующую команду:
 
-dir java -cp saxon.jar com.icl.saxon.StyleSheet -o result.xml test.xml change.xslt
+    java -cp saxon.jar com.icl.saxon.StyleSheet -o result.xml test.xml change.xslt
