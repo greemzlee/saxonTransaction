@@ -7,7 +7,7 @@
 
 ## Конфигурация и настройка запуска
 
-Для того чтобы получить файл result.xml используется SAXON XSLT and XQuery Processor.
+Для того, чтобы получить файл **result.xml**, используется SAXON XSLT and XQuery Processor.
 Скачать saxon можно по [ссылке](http://saxon.sourceforge.net/).
 
 После скачивания архива саксона, его нужно разархивировать
