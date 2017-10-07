@@ -30,4 +30,15 @@ Example of financial XSD:
 
 <https://www.xbrl.org/taxonomy/int/fr/ias/ci/pfs/2002-11-15/Novartis-2002-11-15.xsd>
 
+# Пункт 3. Please find information about ETL and explain in your words where and how you would use it.
 
+ETL (Extract, Transform and Load) is a process in data warehousing responsible for pulling data out of the source systems and placing it into a data warehouse.
+The problem, due to which the need to use ETL solutions was born in principle, is the business need to get reliable reporting from the mess that is created in the data of any ERP-system.
+
+This mess is always, it is of two kinds:
+* As a random errors occurred at the level of input, data transfer, or because of bugs;
+* As a differences in directories and details of data between related IT systems.
+
+Because of this feature, ETL-systems should ideally solve that task:
+
+* Bring all data to a single system of values and detail, simultaneously ensuring their quality and reliability.
