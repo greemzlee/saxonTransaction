@@ -5,7 +5,7 @@
 которые содержат не пустую ноду effectiveDate;
 * значение ноды ratingChar1 начинается на WL.
 
-# saxonTransaction
+# Конфигурация и настройка запуска
 
 Для того чтобы получить файл result.xml используется SAXON XSLT and XQuery Processor.
 Скачать saxon можно по ссылке [ссылке](http://saxon.sourceforge.net/).
@@ -15,3 +15,4 @@
 
 Далее в текущей папке открыть окно командной строки PowerShell и выполнить следующую команду:
 
+> java -cp saxon.jar com.icl.saxon.StyleSheet -o result.xml test.xml change.xslt
