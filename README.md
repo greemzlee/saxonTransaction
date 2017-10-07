@@ -21,3 +21,5 @@
 
 
 # Пункт 2. Please explain what is XSD, show examples of financial XSD.
+
+XSD (XML Schema Definition) is a World Wide Web Consortium (W3C) recommendation that specifies how to formally describe the elements in an Extensible Markup Language (XML) document. This description can be used to verify that each item of content in a document adheres to the description of the element in which the content is to be placed.
