@@ -16,3 +16,5 @@
 Далее в текущей папке открыть окно командной строки PowerShell и выполнить следующую команду:
 
 `java -cp saxon.jar com.icl.saxon.StyleSheet -o result.xml test.xml change.xslt`
+
+После выполнения данной команды в текущей папке будет создан конечный файл **result.xml**.
