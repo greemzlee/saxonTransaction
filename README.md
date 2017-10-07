@@ -27,4 +27,7 @@ XSD (XML Schema Definition) is a World Wide Web Consortium (W3C) recommendation 
 XSD can also be used for generating XML documents that can be treated as programming objects. In addition, a variety of XML processing tools can also generate human readable documentation, which makes it easier to understand complex XML documents.
 
 Example of financial XSD:
+
 <https://www.xbrl.org/taxonomy/int/fr/ias/ci/pfs/2002-11-15/Novartis-2002-11-15.xsd>
+
+
