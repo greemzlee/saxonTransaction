@@ -6,7 +6,7 @@
 * значение ноды ratingChar1 начинается на WL.
 
 Для того чтобы получить файл result.xml используется SAXON XSLT and XQuery Processor.
-Скачать saxon можно по ссылке [ссылка](http://saxon.sourceforge.net/).
+Скачать saxon можно по ссылке [ссылке](http://saxon.sourceforge.net/).
 
 После скачивания архива саксона, его нужно разархивировать
-и в папку с ним копировать файлы \*\*test.xml\*\* И \*\*change.xslt\*\*
+и в папку с ним копировать файлы \*test.xml\* И \*change.xslt\*.
